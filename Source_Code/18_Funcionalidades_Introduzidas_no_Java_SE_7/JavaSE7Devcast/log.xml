@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-02-09T23:30:35</date>
+  <millis>1328837435822</millis>
+  <sequence>0</sequence>
+  <logger></logger>
+  <level>INFO</level>
+  <class>java.util.logging.LogManager$RootLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Iniciando o servidor na porta 8080</message>
+</record>
+</log>
